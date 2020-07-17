@@ -115,16 +115,16 @@ old_md = "10000"
 # Path for geosteering screen shots and save email 
 gm_path = 'C:.../Screenshots/.jpg'
 wc_path = 'C:.../Screenshots/.jpg'
-save_file_name = 'C:/Users/rhoad515/Desktop/Auto_Mail/'+folder_name+'/'+new_md+'MD_'+well_name+'_GEOSTEERING_UPDATE.msg'
+save_file_name = 'C:/.../Desktop/Auto_Mail/'+folder_name+'/'+new_md+'MD_'+well_name+'_GEOSTEERING_UPDATE.msg'
 
 # Enter rig status and geosteering comments for each update here.
 # DRL_LAT, TIH, TOOH, DRL_CURVE
 rig_status = "TIH"
 bit_projection = "Bit is at 'TVD, ' below TOT, ' above BOT, and ' below plan."
-structure = "Formation is expected to dip. Plan dip is parallel to formation dip."
-target = "Recommend targeting >80API GR shale ' below plan line."
-carbonate = "20-60API GR carbonate stringer is presentt ' below plan line "
-tolerances = " 0' up / 25' down relative to plan #4."
+structure = "Formation is expected to xxx. Plan dip is xxx to formation dip."
+target = "Recommend targeting >xAPI GR shale x' above/below plan line."
+carbonate = "x-xAPI GR carbonate stringer is present x' below plan line "
+tolerances = " x' up / x' down relative to plan #x."
 survey = ""
 
 ######################
